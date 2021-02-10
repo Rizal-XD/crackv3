@@ -3,11 +3,11 @@
 
 #######################################################
 # File           : CLI.py                             #
-# Author         : Rizal F                             #
-# Github         : https://github.com/Rizal-XD           #
-# Facebook       : https://www.facebook.com/AKUN.KERTASS    #
+# Author         : Rizal F                            #
+# Github         : https://github.com/Rizal-XD        #
+# Facebook       : facebook.com/AKUN.KERTASS          #
 # Python version : 3.8+                               #
-#######################################################
+#                                                     #
 #         RECODE? OKE CANTUMKAN NAMA PEMBUAT          #
 #######################################################
 
